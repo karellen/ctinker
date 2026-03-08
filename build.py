@@ -21,7 +21,7 @@ use_plugin("pypi:karellen_pyb_plugin", ">=0.0.1")
 use_plugin("python.coveralls")
 
 name = "ctinker"
-version = "0.0.4"
+version = "0.0.5.dev"
 
 summary = "CTinker is a C project introspection and augmentation tool"
 authors = [Author("Karellen, Inc.", "supervisor@karellen.co")]
